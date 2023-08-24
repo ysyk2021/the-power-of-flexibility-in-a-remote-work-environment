@@ -1,5 +1,3 @@
-Chapter 5: Challenges of Flexibility in a Remote Work Environment
-=================================================================
 
 While the benefits of flexibility in a remote work environment are numerous, it also presents unique challenges. In this chapter, we will explore some of the challenges associated with maintaining productivity and accountability, difficulty in setting boundaries and priorities, and managing different time zones and schedules.
 

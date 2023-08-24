@@ -1,5 +1,3 @@
-Chapter 3: Understanding Remote Work
-====================================
 
 Remote work is a growing trend in today's workforce, but there are many different types of remote work arrangements. In this chapter, we will define remote work and explore some of the most common types of remote work.
 

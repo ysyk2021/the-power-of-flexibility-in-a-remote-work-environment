@@ -1,5 +1,3 @@
-Chapter 2: Historical Context of Remote Work
-============================================
 
 Remote work is not a new concept; it has evolved over time and has been a part of human history for centuries. In this chapter, we will explore the historical context of remote work and how it has evolved over time.
 

@@ -1,5 +1,3 @@
-Chapter 7: Impact of Flexibility on Business Performance
-========================================================
 
 Flexible work arrangements have become increasingly popular in recent years, and for good reason. In addition to benefiting employees, flexible work arrangements can have a positive impact on business performance. In this chapter, we will explore the impact of flexibility on employee retention and recruitment, cost savings and efficiency improvements, as well as impacts on productivity and innovation.
 

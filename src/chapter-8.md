@@ -1,5 +1,3 @@
-Chapter 8: Future of Flexibility in a Remote Work Environment
-=============================================================
 
 Emerging Trends and Potential Developments
 ------------------------------------------

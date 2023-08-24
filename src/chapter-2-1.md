@@ -1,5 +1,3 @@
-Early Examples of Remote Work
-======================================
 
 In this chapter, we will explore some early examples of remote work and how they have shaped the modern remote work environment. These historical instances demonstrate that remote work is not a new concept and has been practiced in various forms throughout history. By examining these examples, we can gain insights into the evolution and benefits of remote work.
 
