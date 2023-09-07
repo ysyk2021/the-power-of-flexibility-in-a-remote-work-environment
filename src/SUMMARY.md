@@ -31,3 +31,4 @@
 - [Chapter 9: Case Studies of Flexibility in a Remote Work Environment](chapter-9.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
